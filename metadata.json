@@ -1,0 +1,6 @@
+{
+  "name": "EcoImpact Tracker",
+  "description": "Track carbon footprint, visualize daily ecological impacts, get custom AI reduction recommendations, and view leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
